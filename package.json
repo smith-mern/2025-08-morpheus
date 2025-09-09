@@ -47,7 +47,7 @@
     "@layerzerolabs/lz-evm-protocol-v2": "^2.1.23",
     "@layerzerolabs/lz-evm-sdk-v1-0.7": "^1.5.16",
     "@layerzerolabs/solidity-examples": "^1.0.0",
-    "@openzeppelin/contracts": "4.9.2",
+    "@openzeppelin/contracts": "4.9.6",
     "@openzeppelin/contracts-upgradeable": "4.9.2",
     "@solarity/solidity-lib": "2.5.9",
     "@uniswap/v3-core": "^1.0.1",
